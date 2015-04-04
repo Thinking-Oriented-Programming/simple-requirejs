@@ -5,10 +5,10 @@
   "licenses": {
     "type": "MIT"
   },
-  "bugs": "http://code.at-plus.cn/wezone/wz-web/issues",
+  "bugs": "https://github.com/ericwangqing/simple-requirejs/issues",
   "repository": {
     "type": "git",
-    "url": "git@222.200.181.218:rc-front/a-plus.git"
+    "url": "git@github.com:ericwangqing/simple-requirejs.git"
   },
   "dependencies": {},
   "devDependencies": {

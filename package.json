@@ -5,10 +5,10 @@
   "licenses": {
     "type": "MIT"
   },
-  "bugs": "https://github.com/ericwangqing/simple-requirejs/issues",
+  "bugs": "https://github.com/Thinking-Oriented-Programming/simple-requirejs/issues",
   "repository": {
     "type": "git",
-    "url": "git@github.com:ericwangqing/simple-requirejs.git"
+    "url": "git@github.com:Thinking-Oriented-Programming/simple-requirejs.git"
   },
   "dependencies": {},
   "devDependencies": {
